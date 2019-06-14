@@ -1,0 +1,24 @@
+/*text color*/
+.torange {
+	color:#f67c01;
+}
+.twhite {
+	color:#ffffff;
+}
+.tblue {
+	color:#1976d3;
+}
+/*border all*/
+.bd1 {
+	border-right:1px solid #f67c01;
+}
+.bd2 {
+	border:1px solid #f67c01;
+}
+.br {
+	border-radius: 7px;
+}
+/*background all*/
+.bgorance {
+	background-color:#f67c01;
+}
