@@ -1,3 +1,72 @@
+@media (max-width: 575px){
+	/*font-size*/
+	.fs1 {
+		font-size: 1.25rem;
+	}
+	.mltop {
+		margin-left: 40px;
+	}
+	.imgon {
+		position: absolute;
+		top: 152px;
+		right: 8%;
+	}
+}
+@media (min-width: 576px){
+	/*font-size*/
+	.fs1 {
+		font-size: 1.75rem;
+	}
+	.mltop {
+		margin-left: 60px;
+	}
+	.imgon {
+		position: absolute;
+		top: 160px;
+		right: 22%;
+	}
+}
+@media (min-width: 768px){
+	.mltop {
+		margin-left: 170px;
+	}
+	.imgon {
+		right: 28%;
+	}
+}
+@media (min-width: 992px){
+	.mltop {
+		margin-left: 450px;
+	}
+	.imgon {
+		right: 30%;
+	}
+}
+@media (min-width: 1200px){
+	.mltop {
+		margin-left: 650px;
+	}
+	.imgon {
+		right: 37%;
+	}
+}
+@media (min-width: 1360px){
+	.mltop {
+		margin-left: 800px;
+	}
+	/*image*/
+	.imgon {
+		right: 35%;
+	}
+}
+@media (min-width: 1680px){
+}
+footer {
+ position:fixed;
+ bottom:0;
+ left:0;
+ width:100%;
+}
 /*text color*/
 .torange {
 	color:#f67c01;
@@ -8,12 +77,15 @@
 .tblue {
 	color:#1976d3;
 }
+.tglay {
+	color:#9E9E9E;
+}
 /*border all*/
 .bd1 {
 	border-right:1px solid #f67c01;
 }
 .bd2 {
-	border:1px solid #f67c01;
+	border:2px solid #f67c01;
 }
 .br {
 	border-radius: 7px;
@@ -21,4 +93,14 @@
 /*background all*/
 .bgorance {
 	background-color:#f67c01;
+}
+.bgf {
+	background-color:#212529;
+}
+.bgc {
+	background-color:#f4f4f4;
+}
+/*drop shadow*/
+.sdb {
+    box-shadow: 0 8px 6px -6px #ccc;
 }

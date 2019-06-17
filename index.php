@@ -23,5 +23,8 @@
 			<?php include 'content.php'; ?>
 		</div>
 	</div>
+	<footer>
+		<?php include 'footer.php'; ?>
+	</footer>
 </body>
    
