@@ -6,6 +6,7 @@
 				<div class="row">
 					<div class="col-12 sdb">
 						<div class="row">
+							<img src="images/h1.png" height="" width="" class="ml-auto mr-auto" />
 							<h2 class="w-100 text-center mb-0">Smart Pack</h2>
 							<p class="w-100 text-center tglay">Hosting And Service</p>
 						</div>
@@ -13,7 +14,7 @@
 					<div class="col-12">
 						<div class="row">
 							<h5 class="w-100 text-center mt-3 mb-0 tglay">SPECIAL PRICE</h5>
-							<p class="w-100 text-center tblue">฿ 1,500/Mo.</p>
+							<p class="w-100 text-center tsea">฿ 1,500/Mo.</p>
 						</div>
 					</div>
 					<div class="col-12">

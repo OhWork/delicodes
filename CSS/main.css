@@ -62,7 +62,6 @@
 @media (min-width: 1680px){
 }
 footer {
- position:fixed;
  bottom:0;
  left:0;
  width:100%;
@@ -79,6 +78,9 @@ footer {
 }
 .tglay {
 	color:#9E9E9E;
+}
+.tsea {
+	color:#00796b;
 }
 /*border all*/
 .bd1 {
