@@ -1,28 +1,31 @@
 @media (max-width: 575px){
 	/*font-size*/
 	.fs1 {
-		font-size: 1.25rem;
+		font-size: 1.00rem;
 	}
 	.mltop {
 		margin-left: 40px;
 	}
 	.imgon {
 		position: absolute;
-		top: 152px;
+		top: 72px;
 		right: 8%;
 	}
 }
 @media (min-width: 576px){
 	/*font-size*/
 	.fs1 {
-		font-size: 1.75rem;
+		font-size: 1.00rem;
+	}
+	.fs2 {
+		font-size: 3.5rem;
 	}
 	.mltop {
 		margin-left: 60px;
 	}
 	.imgon {
 		position: absolute;
-		top: 160px;
+		top: 91px;
 		right: 22%;
 	}
 }
@@ -52,7 +55,7 @@
 }
 @media (min-width: 1360px){
 	.mltop {
-		margin-left: 800px;
+		margin-left: 950px;
 	}
 	/*image*/
 	.imgon {
@@ -96,8 +99,11 @@ footer {
 .bgorance {
 	background-color:#f67c01;
 }
+.bgb {
+	background-color:#1976d3;
+}
 .bgf {
-	background-color:#212529;
+	background-color:#333230;
 }
 .bgc {
 	background-color:#f4f4f4;
@@ -109,3 +115,6 @@ footer {
 	border-top-left-radius: 7px;
 	border-top-right-radius: 7px;
 }
+.fs3 {
+		font-size: 1.4rem;
+	}

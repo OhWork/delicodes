@@ -1,4 +1,4 @@
-<div class="col-12 bg-dark mt-5">
+<div class="col-12 bgf mt-5">
 	<div class="row">
 		<div class="col-12 bgf">
 			<div class="row">
@@ -7,35 +7,40 @@
 						<div class="col-12 mt-3">
 							<div class="row">
 								<div class="col-3"></div>
-								<div class="col-6 torange">ส่งข้อความ</div>
+								<div class="col-6 torange fs3">ส่งข้อความ</div>
 								<div class="col-3"></div>
 							</div>
 						</div>
 						<div class="col-12">
 							<div class="row">
 								<div class="col-3"></div>
-								<div class="col-6 torange">ถึง Delicode</div>
+								<div class="col-6">
+									<div class="row">
+										<div class="torange ml-3">ถึง  Deli</div>
+										<div class="twhite">code</div>
+									</div>
+								</div>
 								<div class="col-3"></div>
 							</div>
 						</div>
 						<div class="col-12 mt-2">
 							<div class="row">
 								<div class="col-3 twhite text-right pt-1"><p>Name</p></div>
-								<div class="col-6 torange"><input class="form-control"/></div>
+								<div class="col-6 torange"><input class="w-100 br"/></div>
 								<div class="col-3"></div>
 							</div>
 						</div>
 						<div class="col-12">
 							<div class="row">
 								<div class="col-3 twhite text-right pt-1"><p>TEL</p></div>
-								<div class="col-6 torange"><input class="form-control"/></div>
+								<div class="col-6 torange"><input class="w-100 br"/></div>
 								<div class="col-3"></div>
 							</div>
 						</div>
 						<div class="col-12">
 							<div class="row">
 								<div class="col-3 twhite text-right pt-1"><p>E-mail</p></div>
-								<div class="col-6 torange"><input class="form-control"/></div>
+								<div class="col-6 torange"><input class="w-100 br"/></div>
 								<div class="col-3"></div>
 							</div>
 						</div>
@@ -53,7 +58,7 @@
 					<div class="row">
 						<div class="col-12 mt-3">
 							<div class="row">
-								<div class="col-12 torange">โทรติดต่อเรา</div>
+								<div class="col-12 torange fs3">โทรติดต่อเรา</div>
 								<div class="col-12 twhite">08x-xxx-xxxx</div>
 								<div class="col-12 twhite">Support@delicode.com</div>
 								<div class="col-12 twhite">------------------------------------------------</div>
