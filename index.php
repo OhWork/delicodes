@@ -22,9 +22,10 @@
 			<?php include 'menutop.php'; ?>
 			<?php include 'content.php'; ?>
 		</div>
-	</div>
+	
 	<footer>
 		<?php include 'footer.php'; ?>
 	</footer>
+	</div>
 </body>
    

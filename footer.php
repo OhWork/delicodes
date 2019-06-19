@@ -1,10 +1,10 @@
-<div class="bg-dark w-100 mt-5">
+<div class="col-12 bg-dark mt-5">
 	<div class="row">
 		<div class="col-12 bgf">
 			<div class="row">
 				<div class="col-5">
 					<div class="row">
-						<div class="col-12">
+						<div class="col-12 mt-3">
 							<div class="row">
 								<div class="col-3"></div>
 								<div class="col-6 torange">ส่งข้อความ</div>
@@ -18,7 +18,7 @@
 								<div class="col-3"></div>
 							</div>
 						</div>
-						<div class="col-12">
+						<div class="col-12 mt-2">
 							<div class="row">
 								<div class="col-3 twhite text-right pt-1"><p>Name</p></div>
 								<div class="col-6 torange"><input class="form-control"/></div>
@@ -51,7 +51,7 @@
 				<div class="col-2"></div>
 				<div class="col-5">
 					<div class="row">
-						<div class="col-12">
+						<div class="col-12 mt-3">
 							<div class="row">
 								<div class="col-12 torange">โทรติดต่อเรา</div>
 								<div class="col-12 twhite">08x-xxx-xxxx</div>
@@ -65,7 +65,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="footer-copyright text-center pl-4 py-3 twhite">© 2019 Copyright:
+		<div class="col-12 footer-copyright py-3 twhite">© 2019 Copyright:
 			<a class="torange" href="#"> Delicodes.com</a> All rights reserved.
 		</div>
 	</div>
