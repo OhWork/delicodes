@@ -17,7 +17,7 @@
 								<div class="col-6">
 									<div class="row">
 										<div class="torange ml-3">ถึง  Deli</div>
-										<div class="twhite">code</div>
+										<div class="twhite">codes</div>
 									</div>
 								</div>
 								<div class="col-3"></div>
@@ -60,9 +60,9 @@
 							<div class="row">
 								<div class="col-12 torange fs3">โทรติดต่อเรา</div>
 								<div class="col-12 twhite">094-251-0023</div>
-								<div class="col-12 twhite">Support@delicode.com</div>
+								<div class="col-12 twhite">Support@delicodes.com</div>
 								<div class="col-12 twhite">------------------------------------------------</div>
-								<div class="col-12 twhite">เวลาทำการ Delicode Support Team</div>
+								<div class="col-12 twhite">เวลาทำการ Delicodes Support Team</div>
 								<div class="col-12 twhite">Mon - Sun 24hr</div>
 							</div>
 						</div>

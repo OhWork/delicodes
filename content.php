@@ -1,6 +1,6 @@
 <div class="col-12 mt-3 tglay">
 	<div class="row">
-		<div class="w-100 text-center torange fs4">DELICODE</div>
+		<div class="w-100 text-center torange fs4">DELICODES</div>
 		<div class="w-100 text-center tglay">เรารับออกแบบเว็บไซต์ </div>
 		<div class="w-100 text-center tglay">และมีบริการด้านโฮสติ้งที่ครบครัน</div>
 	</div>
