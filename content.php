@@ -1,3 +1,10 @@
+<div class="col-12 mt-3 tglay">
+	<div class="row">
+		<div class="w-100 text-center torange fs4">DELICODE</div>
+		<div class="w-100 text-center tglay">เรารับออกแบบเว็บไซต์ </div>
+		<div class="w-100 text-center tglay">และมีบริการด้านโฮสติ้งที่ครบครัน</div>
+	</div>
+</div>
 <div class="col-12 mt-5">
 	<div class="row">
 		<div class="col-xl-4 col-lg-3 col-md-3 col-sm-2"></div>
@@ -28,15 +35,6 @@
 							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-1 col-1"></div>
 						</div>
 					</div>
-					<!--<div class="col-12 mt-1 pb-2">
-						<div class="row">
-							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-2 col-2"></div>
-							<div class="col-xl-6 col-lg-4 col-md-6 col-sm-8 col-8">
-								<button class="btn btn-light col-12 bgorance twhite">Contact Us</button>
-							</div>
-							<div class="col-xl-3 col-lg-4 col-md-3 col-sm-2 col-2"></div>
-						</div>
-					</div>-->
 					<div class="col-12 mt-1 pt-2 pb-2 br bgc">
 						<nav class="tglay">See More Detail</nav>
 					</div>

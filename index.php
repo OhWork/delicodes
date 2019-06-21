@@ -19,7 +19,6 @@
 <body>
 	<div class="wrapper">
 		<div>
-			<?php include 'menutop.php'; ?>
 			<?php include 'content.php'; ?>
 		</div>
 	

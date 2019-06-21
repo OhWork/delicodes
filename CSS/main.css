@@ -3,12 +3,15 @@
 	.fs1 {
 		font-size: 1.00rem;
 	}
+	.fs4 {
+		font-size: 3.0rem;
+	}
 	.mltop {
 		margin-left: 40px;
 	}
 	.imgon {
 		position: absolute;
-		top: 72px;
+		top: 158px;
 		right: 8%;
 	}
 }
@@ -20,12 +23,15 @@
 	.fs2 {
 		font-size: 3.5rem;
 	}
+	.fs4 {
+		font-size: 3.0rem;
+	}
 	.mltop {
 		margin-left: 60px;
 	}
 	.imgon {
 		position: absolute;
-		top: 91px;
+		top: 157px;
 		right: 22%;
 	}
 }

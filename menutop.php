@@ -6,13 +6,12 @@
 				<h1 class="mt-2 fs1">Line ID : Deli</h1>
 				<button type="button" class="btn bgorance twhite mltop">Contact</button>
 			</div>
-		</nav>-->
+		</nav>
 		<nav class="navbar w-100 pt-0 pb-0 bgb torange">
 			<div class="row">
 				<h1 class="fs2 mb-0">DELI<h1>
 				<h1 class="twhite mb-0 fs2">CODE<h1>
-			<!--<h3 class="ml-auto mr-5 twhite">Help<h3>-->
 			</div>
-		</nav>
+		</nav>-->
 	</div>
 </div>
