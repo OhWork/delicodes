@@ -59,7 +59,7 @@
 						<div class="col-12 mt-3">
 							<div class="row">
 								<div class="col-12 torange fs3">โทรติดต่อเรา</div>
-								<div class="col-12 twhite">08x-xxx-xxxx</div>
+								<div class="col-12 twhite">094-251-0023</div>
 								<div class="col-12 twhite">Support@delicode.com</div>
 								<div class="col-12 twhite">------------------------------------------------</div>
 								<div class="col-12 twhite">เวลาทำการ Delicode Support Team</div>
