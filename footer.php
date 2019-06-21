@@ -26,21 +26,21 @@
 						<div class="col-12 mt-2">
 							<div class="row">
 								<div class="col-3 twhite text-right pt-1"><p>Name</p></div>
-								<div class="col-6 torange"><input class="w-100 br"/></div>
+								<div class="col-6 torange"><input class="w-100 br" placeholder="กำลังปรับปรุง"/></div>
 								<div class="col-3"></div>
 							</div>
 						</div>
 						<div class="col-12">
 							<div class="row">
 								<div class="col-3 twhite text-right pt-1"><p>TEL</p></div>
-								<div class="col-6 torange"><input class="w-100 br"/></div>
+								<div class="col-6 torange"><input class="w-100 br" placeholder="กำลังปรับปรุง"/></div>
 								<div class="col-3"></div>
 							</div>
 						</div>
 						<div class="col-12">
 							<div class="row">
 								<div class="col-3 twhite text-right pt-1"><p>E-mail</p></div>
-								<div class="col-6 torange"><input class="w-100 br"/></div>
+								<div class="col-6 torange"><input class="w-100 br" placeholder="กำลังปรับปรุง"/></div>
 								<div class="col-3"></div>
 							</div>
 						</div>
